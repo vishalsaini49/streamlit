@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/SCALER%20CLASSES/Github%20Desktop/streamlit/mlruns/182255890554326770/d3f8edafc7b04655a8a1d2e20300d6a4/artifacts
+end_time: 1734095473394
+entry_point_name: ''
+experiment_id: '182255890554326770'
+lifecycle_stage: active
+run_id: d3f8edafc7b04655a8a1d2e20300d6a4
+run_name: Hyperparameter_run_3
+run_uuid: d3f8edafc7b04655a8a1d2e20300d6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734095468734
+status: 3
+tags: []
+user_id: Saini
